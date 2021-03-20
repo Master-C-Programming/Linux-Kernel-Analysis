@@ -1,5 +1,5 @@
 # Linux-Kernel-Analysis
-Analyze the Linux kernel.
+Analyze the Linux Kernel.
 
 ##### 리눅스 커널 심층 분석 3e, 로버트 러브 지음 | 황정동 옮김, 에이콘
 
@@ -7,7 +7,7 @@ Analyze the Linux kernel.
 
 ## 목차
 - [1주차 : 1. 리눅스 커널 입문 ~ 2. 커널과의 첫 만남](#1주차)
-- [2주차 : 3. 프로세스 관리 ~ 4. 프로세스 스케줄링](#2추차)
+- [2주차 : 3. 프로세스 관리 ~ 4. 프로세스 스케줄링](#2주차)
 
 <hr>
 
